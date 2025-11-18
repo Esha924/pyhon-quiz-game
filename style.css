@@ -61,3 +61,22 @@ button:hover {
 #result-box {
     text-align: center;
 }
+#leaderboard-box {
+    margin-top: 20px;
+    text-align: center;
+}
+
+#leaderboard-list {
+    list-style: none;
+    padding: 0;
+    margin-top: 15px;
+}
+
+#leaderboard-list li {
+    background: #e0e0e0;
+    padding: 10px;
+    margin: 8px 0;
+    border-radius: 6px;
+    font-size: 16px;
+}
+
