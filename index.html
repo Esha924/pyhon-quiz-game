@@ -9,6 +9,7 @@
 <body>
 
     <div class="container">
+
         <h1>Python Quiz Game</h1>
 
         <div id="quiz-box">
@@ -20,10 +21,24 @@
         <div id="result-box" class="hide">
             <h2>Quiz Completed!</h2>
             <p id="score-text"></p>
+
+            <input type="text" id="player-name" placeholder="Enter your name">
+            <button onclick="saveScore()">Save Score</button>
+
+            <button onclick="showLeaderboard()">View Leaderboard</button>
         </div>
+
+        <div id="leaderboard-box" class="hide">
+            <h2>Leaderboard</h2>
+            <ul id="leaderboard-list"></ul>
+
+            <button onclick="restartQuiz()">Play Again</button>
+        </div>
+
     </div>
 
     <script src="script.js"></script>
 
 </body>
 </html>
+
