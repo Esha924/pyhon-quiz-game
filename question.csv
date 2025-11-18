@@ -1,0 +1,6 @@
+Question,OptionA,OptionB,OptionC,OptionD,Answer
+Which of the following is not a valid Python datatype?,int,double,list,tuple,B
+What does API stand for?,Application Programming Interface,Advanced Programming Interface,Automated Program Interaction,All of the above,A
+What is the purpose of a constructor?,To create objects,To destroy objects,To print values,None,A
+Which operator is used for power in Python?,^,**,%,*,B
+Python was created by which developer?,Guido van Rossum,Dennis Ritchie,James Gosling,Mark Zuckerburg,A
