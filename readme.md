@@ -1,24 +1,28 @@
-# Python Quiz Game 🎮
+# Python Quiz Game (HTML / CSS / JavaScript)
 
-A Python project that loads questions from CSV, plays a quiz, and stores scores in a leaderboard.
+This is a fully interactive **Python Quiz Game Website** created using  
+**HTML, CSS, and JavaScript**.  
+It contains **15 Python multiple-choice questions** and runs directly in the browser — no installation required.
 
-## Features
-- Loads MCQs from `questions.csv`
-- Tracks score
-- Shows correct/incorrect answers
-- Saves results in `leaderboard.csv`
-- Displays leaderboard sorted by score
+The quiz works perfectly on **GitHub Pages**, so it can be played online with a single link.
 
-## How to Run
-1. Install Python & Pandas:
-   pip install pandas
+---
 
-2. Run the project:
-   python main.py
+## 📌 Features
 
-## Files
-- main.py — Main quiz program
-- questions.csv — Question bank
-- leaderboard.csv — Auto-generated
+- Clean and user-friendly interface  
+- Total **15 Python questions** (5 original + 10 newly added)  
+- 4 options per question  
+- Alerts for correct & wrong answers  
+- Score shown at the end  
+- Mobile-friendly design  
+- No backend or Python installation needed  
+- Works entirely on the browser  
+- GitHub Pages compatible  
 
-Author: Esha Kanwat
+---
+
+## 📁 Project Structure
+
+Your repository should contain:
+
